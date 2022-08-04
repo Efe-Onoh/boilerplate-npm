@@ -1,5 +1,5 @@
 {
-	"name": "Efe-Onoh",
+	"name": "npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,5 +10,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Efe-Onoh"
 }
